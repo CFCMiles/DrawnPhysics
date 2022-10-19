@@ -19,3 +19,5 @@ If you are not on the preview screen 'r' restarts the game
 'p', 'g', and'y' change the balls color
 'c' continues past the preview mode
 'f' turns friction off
+
+Link to the video explanation: https://youtu.be/loJL2-ZYtzA
