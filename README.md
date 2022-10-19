@@ -4,7 +4,7 @@ Physics game based on the game crayon physics
 Project Description:
 
 
-Description : This is a game where the user draws a line with a crayon and then pushes a ball so it follows the line. If this ball reaches the star that has been placed in the terrain the user gets a point and moves on to the next level.
+This is a game where the user draws a line with a crayon and then pushes a ball so it follows the line. If this ball reaches the star that has been placed in the terrain the user gets a point and moves on to the next level.
 
 How to Run: This project is on one file. All you need are the images as well as the mp3 to be in the same location as the code and it should run just fine.
 
@@ -18,5 +18,6 @@ If you are not on the preview screen 'r' restarts the game
 'p', 'g', and'y' change the balls color
 'c' continues past the preview mode
 'f' turns friction off
+
 
 Link to the video demo: https://youtu.be/loJL2-ZYtzA
