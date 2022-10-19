@@ -2,7 +2,6 @@
 Physics game based on the game crayon physics
 
 Project Description:
- Name: Drawn Physics
 
 
 Description : This is a game where the user draws a line with a crayon and then pushes a ball so it follows the line. If this ball reaches the star that has been placed in the terrain the user gets a point and moves on to the next level.
