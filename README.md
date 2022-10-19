@@ -20,4 +20,4 @@ If you are not on the preview screen 'r' restarts the game
 'c' continues past the preview mode
 'f' turns friction off
 
-Link to the video explanation: https://youtu.be/loJL2-ZYtzA
+Link to the video demo: https://youtu.be/loJL2-ZYtzA
